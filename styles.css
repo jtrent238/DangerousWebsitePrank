@@ -1,0 +1,23 @@
+
+html {
+	background-color: rgb(255, 45, 22);
+	color: rgb(255, 255, 255);
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	color: rgb(255, 255, 0);
+}
+
+body {
+	position: center;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h1 div.warningSign {
+	font-size: 2em;
+}
