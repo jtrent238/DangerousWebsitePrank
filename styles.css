@@ -4,6 +4,7 @@ html {
 	color: rgb(255, 255, 255);
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
 }
 
 a {
@@ -21,3 +22,19 @@ h1 {
 h1 div.warningSign {
 	font-size: 2em;
 }
+
+p.skulls {
+	/* nothing here */
+}
+
+button {
+    background-color: rgb(255, 255, 0);
+    border: none;
+    color: rgb(255, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
